@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/_site"
+baseurl: ""
 url: "https://gbarboza88.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
