@@ -4,7 +4,7 @@ title: Super Bomberman 5 and Controller Port Priority
 color: rgb(250, 50, 50)
 feature-img: "assets/img/feature-img/bomberman.jpg"
 thumbnail: "assets/img/thumbnails/feature-img/bomberman.jpg"
-tags: [Highlight, Markdown]
+tags: [Bug Breakdown]
 ---
 When I was kid, there was one day that me and my three cousins were playing Super Bomberman 5 for the Super Famicom and a weird glitch happened. We used to play Tag Team mode (2v2) with a mechanic called "Revenge Cart" turned on. This mechanic basically allowed a player to have a second chance of returning to the battlefield by putting its character on top of a cart that could move around the corner of the stage. While on top of your cart, you could throw bombs in the players that were still alive and, if you manage to get a kill, you would respawn. The glitch happened because of that mechanic.
 
